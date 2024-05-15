@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Oswald:wght@200..700&display=swap');
+body{
+    font-family: "Nunito", sans-serif;
+}
+
+/* navbar */
+
+
+#home{
+    height: 100vh;
+}
+
+.cl_white{
+    color: white;
+}
+
+img{
+    width: 300px;
+    transition: opacity is ease-in-out;
+}
+
+img:hover{
+    opacity: .10;
+}
+
+.col-text{
+    -webkit-column-count: 3;
+}
+
